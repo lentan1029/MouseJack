@@ -21,7 +21,7 @@ setInterval(function() {
     // console.log(data);
     var moveX = mouse.x + data.x >= screen.width - 1 ? screen.width - 1 : mouse.x + data.x;
     var moveY = mouse.y + data.y >= screen.height - 1 ? screen.height - 1 : mouse.y + data.y;
-    console.log(moveX, moveY);
+    // console.log(moveX, moveY);
     robot.moveMouse(moveX, moveY);
   });
 }, 50);
