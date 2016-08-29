@@ -20,4 +20,4 @@
   "MouseJack parties are hilarious! Try it with Slither.io!" -- Intended User <br> 
   "I ran MouseJack and it took over my cursor. Now I can't do anything productive." -- Boring Person <br>
 
-Download it, run it, and share the link with your friends (or just with anyone). Get started [now](http://mousejack.com)!
+Download it, run it, and share the link with your friends (or with anyone). Get started [now](http://mousejack.com)!
