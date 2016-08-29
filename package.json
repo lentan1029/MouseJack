@@ -1,7 +1,7 @@
 {
   "name": "mousejack",
-  "version": "1.0.1",
-  "description": "## Fight for cursor control. Multi-player. ##",
+  "version": "1.0.2",
+  "description": "Fight for cursor control. Multi-player.",
   "main": "index.js",
   "bin": {
     "mousejack": "bin/index.js"
