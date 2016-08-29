@@ -14,5 +14,9 @@
     "url": "https://github.com/lentan1029/MouseJack/"
   },
   "author": "lentan1029",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "request": "^2.74.0",
+    "robotjs": "^0.4.4"
+  }
 }
