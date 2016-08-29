@@ -11,7 +11,6 @@
   "Just wait till KeyboardJack comes out." -- Official Spokeperson
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
   1. If you are the host computer: run a node program.
   1. If you have a user: go to the host URL.
 
