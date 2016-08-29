@@ -16,8 +16,8 @@
   1. If you have a user: go to the host URL.
 
 ## Customer Quotes ##
-  "I ran MouseJack during demos and quickly figured out how my users were interacting with my product!" -- Unknown Product Manager
-  "MouseJack parties are hilarious! Try it with Slither.io!" -- Intended User
-  "I ran MouseJack and it took over my cursor. Now I can't do anything productive." -- Boring Person
+  "I ran MouseJack during demos and quickly figured out how my users were interacting with my product!" -- Unknown Product Manager <br>
+  "MouseJack parties are hilarious! Try it with Slither.io!" -- Intended User <br> 
+  "I ran MouseJack and it took over my cursor. Now I can't do anything productive." -- Boring Person <br>
 
 Download it, run it, and share the link with your friends (or just with anyone). Get started [now](http://mousejack.com)!
